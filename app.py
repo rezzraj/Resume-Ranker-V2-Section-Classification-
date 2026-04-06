@@ -745,12 +745,12 @@ st.markdown(
     """
     <div class="hero">
         <div class="glass hero-left">
-            <div class="kicker">✧ Better logic Better UI Better Everything</div>
-            <div class="title">Turn raw resumes into <span class="grad">beautifully explained matches</span>.</div>
+            <div class="kicker">✧ Designed as a multi-phase NLP pipeline</div>
+            <div class="title">From raw resumes to <span class="grad">Ranked Semantic matches</span>.</div>
             <div class="subtitle">
             </div>
             <div class="cta-row">
-                <div class="cta-pill primary">Upload → Extract → Rank → Explain</div>
+                <div class="cta-pill primary">Upload → Extract → Rank </div>
                 <div class="cta-pill">Uses BERT</div>
                 <div class="cta-pill">Vector Embeddings </div>
                 <div class="cta-pill">Section Classification</div>
