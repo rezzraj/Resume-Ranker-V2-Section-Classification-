@@ -245,16 +245,16 @@ def section_classifier(chunk_list,jd_text):
         # we first check using hard code if chunk contains any of these words its likely talking about stuff that fits in those category
         if "skills" in chunk:
             current_section = "skills"
-            continue
+            
         elif "education" in chunk:
             current_section = "education"
-            continue
+            
         elif "project" in chunk:
             current_section = "project"
-            continue
+            
         elif "experience" in chunk:
             current_section = "experience"
-            continue
+            
         if "summary" in chunk:
             continue
 
