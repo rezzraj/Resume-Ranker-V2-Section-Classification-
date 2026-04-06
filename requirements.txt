@@ -9,3 +9,4 @@ pytesseract
 pillow
 torch
 transformers
+pdf2image
