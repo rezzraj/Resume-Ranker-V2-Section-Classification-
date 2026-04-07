@@ -246,19 +246,15 @@ def section_classifier(chunk_list,jd_text):
         if "skills" in chunk:
             current_section = "skills"
             continue
-            
         elif "education" in chunk:
             current_section = "education"
             continue
-            
         elif "project" in chunk:
             current_section = "project"
             continue
-            
         elif "experience" in chunk:
             current_section = "experience"
             continue
-            
         if "summary" in chunk:
             continue
 
@@ -339,6 +335,7 @@ def no_section_score(data,jd):
     jd_emb = model.encode([jd], normalize_embeddings=True)
     score = cosine_similarity(emb, jd_emb)[0][0]
     return score
+
 
 
 
