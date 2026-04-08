@@ -3,11 +3,11 @@
 RezRanker V2 is a semantic resume ranking system that compares multiple resumes against a job description using sentence embeddings, cosine similarity, section-aware scoring, and a deployable Streamlit interface. Instead of relying on raw keyword matching, it tries to understand whether a resume is relevant in meaning, then ranks candidates accordingly.
 ## UI Preview
 
-![Upload Section](image.jpeg)
+![Upload Section](image.png)
 
 Upload multiple resumes and paste the job description.
 
-![Ranking Output](image(1).jpeg)
+![Ranking Output](image(1).png)
 
 Ranked results with scores and visual bars.
 
