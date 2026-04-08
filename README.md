@@ -2,6 +2,11 @@
 
 RezRanker V2 is a semantic resume ranking system that compares multiple resumes against a job description using sentence embeddings, cosine similarity, section-aware scoring, and a deployable Streamlit interface. Instead of relying on raw keyword matching, it tries to understand whether a resume is relevant in meaning, then ranks candidates accordingly.
 
+## weblink(yes its streamlit but pretty)- https://lnkd.in/gyuFcEDF
+
+
+## Video Explanation of whole backend (YT)- https://lnkd.in/gKpNN-cT
+
 ---
 
 ## What This Project Does
@@ -261,10 +266,7 @@ That combination makes the project look more thoughtful and more complete than a
 **SpearmanRank(old)=0.59** 
 SpearmanRank(New)=0.62 (looks small but in spearman terms thats significant) 81 % accuracy 
 
-weblink(yes its streamlit but pretty)- https://lnkd.in/gyuFcEDF
 
-
-Video Explanation of whole backend (YT)- https://lnkd.in/gKpNN-cT
 
 
 Why its not perfect (Yet)- 
