@@ -751,7 +751,7 @@ st.markdown(
             </div>
             <div class="cta-row">
                 <div class="cta-pill primary">Upload → Extract → Rank </div>
-                <div class="cta-pill">Uses BERT</div>
+                <div class="cta-pill">Uses Mpnet V2 </div>
                 <div class="cta-pill">Vector Embeddings </div>
                 <div class="cta-pill">Section Classification</div>
             </div>
