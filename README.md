@@ -12,6 +12,7 @@ Upload multiple resumes and paste the job description.
 Ranked results with scores and visual bars.
 
 ## weblink(yes its streamlit but pretty)- https://lnkd.in/gyuFcEDF
+## docker image file - https://hub.docker.com/repository/docker/therezzwave/rezzrankerv2/general
 
 
 ## Video Explanation of whole backend (YT)- https://lnkd.in/gKpNN-cT
