@@ -1,0 +1,12 @@
+.git
+.gitignore
+.idea
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+Python
+resume pdfs(data)
+resumes (small)
+idk
